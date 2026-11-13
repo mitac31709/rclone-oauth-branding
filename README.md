@@ -14,7 +14,7 @@ by rclone / restic backups.
 Source also mirrors on GitHub Pages (not for GCP — ownership of `github.io` is
 often rejected):
 
-- https://mitac-31709.github.io/rclone-oauth-branding/
+- https://mitac31709.github.io/rclone-oauth-branding/
 
 ## Google Cloud Console checklist
 
